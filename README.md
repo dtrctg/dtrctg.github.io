@@ -1,4 +1,3 @@
-# dtrctg.github.io
 <!DOCTYPE html>
 
 <html>
