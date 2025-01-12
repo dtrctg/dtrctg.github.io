@@ -2,6 +2,52 @@
 
 <html>
     <head>
+        h3 {
+    color: red;
+    text-align: center;
+    font-style: italic;
+}
+h5 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h4 {
+    color: white;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-align: center;
+}
+p {
+    color: white;
+    font-family: "Texte DM Serif";
+    font-size: larger;
+    font-weight: normal;
+}
+#image {
+    text-align: center;
+    align-content: center;
+}
+body {
+    background-color: black;
+}
+p5 {
+    font-family: "Texte DM Serif";
+    font-weight: bolder;
+    text-decoration: underline;
+    color: white;
+    font-size: larger;
+}
+p1 {
+    font-weight: bold;
+    color: white;
+    font-size: larger;
+}
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="style.css">
         <title>Organisation DTR "Drive Track Racing" (CTG) </title>
